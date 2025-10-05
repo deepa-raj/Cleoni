@@ -1,5 +1,6 @@
 // product.js:
 
+
 const products = [
   {
     name: "Classic Oxford Button-Down Shirt",
@@ -18,11 +19,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=39",
+        url: "/assets/m1.jpg",
         altText: "Classic Oxford Button-Down Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=40",
+        url: "/assets/m1_1.jpg",
         altText: "Classic Oxford Button-Down Shirt Back View",
       },
     ],
@@ -46,11 +47,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=41",
+        url: "/assets/m2.jpg",
         altText: "Slim-Fit Stretch Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=42",
+        url: "/assets/m2_2.jpg",
         altText: "Slim-Fit Stretch Shirt Back View",
       },
     ],
@@ -74,11 +75,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=43",
+        url: "/assets/m3.jpg",
         altText: "Casual Denim Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=44",
+        url: "/assets/m3_3.jpg",
         altText: "Casual Denim Shirt Back View",
       },
     ],
@@ -102,11 +103,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=45",
+        url: "/assets/m4.jpg",
         altText: "Printed Resort Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=1",
+        url: "/assets/m4_4.jpg",
         altText: "Printed Resort Shirt Back View",
       },
     ],
@@ -130,11 +131,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=47",
+        url: "/assets/m5.jpg",
         altText: "Slim-Fit Easy-Iron Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=2",
+        url: "/assets/m5_5.jpg",
         altText: "Slim-Fit Easy-Iron Shirt Front View",
       },
     ],
@@ -158,11 +159,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=3",
+        url: "/assets/m6.jpg",
         altText: "Polo T-Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=4",
+        url: "/assets/m6_6.jpg",
         altText: "Polo T-Shirt Back View",
       },
     ],
@@ -186,7 +187,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=5",
+        url: "/assets/m7.jpg",
         altText: "Oversized Graphic T-Shirt Front View",
       },
     ],
@@ -210,7 +211,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=6",
+        url: "/assets/m8.jpg",
         altText: "Regular-Fit Henley Shirt Front View",
       },
     ],
@@ -234,7 +235,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=7",
+        url: "/assets/m9.jpg",
         altText: "Long-Sleeve Thermal Tee Front View",
       },
     ],
@@ -258,7 +259,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=8",
+        url: "/assets/m10.jpg",
         altText: "V-Neck Classic T-Shirt Front View",
       },
     ],
@@ -282,7 +283,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=9",
+        url: "/assets/m11.jpg",
         altText: "Slim Fit Joggers Front View",
       },
     ],
@@ -306,7 +307,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=10",
+        url: "/assets/m12.jpg",
         altText: "Cargo Joggers Front View",
       },
     ],
@@ -330,7 +331,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=11",
+        url: "/assets/m13.jpg",
         altText: "Tapered Sweatpants Front View",
       },
     ],
@@ -354,7 +355,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=12",
+        url: "/assets/m14.jpg",
         altText: "Denim Jeans Front View",
       },
     ],
@@ -378,7 +379,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=13",
+        url: "/assets/m15.jpg",
         altText: "Chino Pants Front View",
       },
     ],
@@ -402,7 +403,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=14",
+        url: "/assets/m16.jpg",
         altText: "Track Pants Front View",
       },
     ],
@@ -426,7 +427,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=15",
+        url: "/assets/m17.jpg",
         altText: "Slim Fit Trousers Front View",
       },
     ],
@@ -450,7 +451,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=16",
+        url: "/assets/m18.jpg",
         altText: "Cargo Pants Front View",
       },
     ],
@@ -474,7 +475,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=17",
+        url: "/assets/m19.jpg",
         altText: "Relaxed Fit Sweatpants Front View",
       },
     ],
@@ -498,7 +499,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=18",
+        url: "/assets/m1_1.jpg",
         altText: "Formal Dress Pants Front View",
       },
     ],
@@ -522,7 +523,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=19",
+        url: "/assets/m20.jpg",
         altText: "High-Waist Skinny Jeans",
       },
     ],
@@ -546,7 +547,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=20",
+        url: "/assets/w20.jpg",
         altText: "Wide-Leg Trousers Front View",
       },
     ],
@@ -570,7 +571,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=21",
+        url: "/assets/w2.jpg",
         altText: "Stretch Leggings Front View",
       },
     ],
@@ -594,7 +595,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=22",
+        url: "/assets/w3.jpg",
         altText: "Pleated Midi Skirt Front View",
       },
     ],
@@ -618,7 +619,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=23",
+        url: "/assets/w4.jpg",
         altText: "Flared Palazzo Pants Front View",
       },
     ],
@@ -642,7 +643,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=24",
+        url: "/assets/w5.jpg",
         altText: "High-Rise Joggers Front View",
       },
     ],
@@ -666,7 +667,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=25",
+        url: "/assets/w6.jpg",
         altText: "Paperbag Waist Shorts Front View",
       },
     ],
@@ -690,7 +691,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=26",
+        url: "/assets/w7.jpg",
         altText: "Stretch Denim Shorts Front View",
       },
     ],
@@ -714,7 +715,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=27",
+        url: "/assets/w8.jpg",
         altText: "Culottes Front View",
       },
     ],
@@ -738,7 +739,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=28",
+        url: "/assets/w9.jpg",
         altText: "Classic Pleated Trousers Front View",
       },
     ],
@@ -762,7 +763,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=29",
+        url: "/assets/w10.jpg",
         altText: "Knitted Cropped Top",
       },
     ],
@@ -786,7 +787,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=30",
+        url: "/assets/w11.jpg",
         altText: "Boho Floral Blouse",
       },
     ],
@@ -810,7 +811,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=31",
+        url: "/assets/w12.jpg",
         altText: "Casual T-Shirt",
       },
     ],
@@ -834,7 +835,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=32",
+        url: "/assets/w13.jpg",
         altText: "Off-Shoulder Top",
       },
     ],
@@ -858,7 +859,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=33",
+        url: "/assets/w14.jpg",
         altText: "Lace-Trimmed Cami Top",
       },
     ],
@@ -882,7 +883,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=34",
+        url: "/assets/w15.jpg",
         altText: "Graphic Print Tee",
       },
     ],
@@ -906,7 +907,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=35",
+        url: "/assets/w16.jpg",
         altText: "Ribbed Long-Sleeve Top",
       },
     ],
@@ -930,7 +931,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=36",
+        url: "/assets/w17.jpg",
         altText: "Ruffle-Sleeve Blouse",
       },
     ],
@@ -954,7 +955,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=37",
+        url: "/assets/w18.jpg",
         altText: "Classic Button-Up Shirt",
       },
     ],
@@ -978,7 +979,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=38",
+        url: "/assets/w19.jpg",
         altText: "V-Neck Wrap Top",
       },
     ],
