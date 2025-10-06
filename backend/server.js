@@ -19,7 +19,7 @@ app.use(express.json());
 
 // ✅ Configure CORS properly
 app.use(cors({
-  origin: ["http://localhost:5173", "https://cleoni-vszd.vercel.app/"],   // frontend (vite) URL
+  origin: ["http://localhost:5173", "https://cleoni-56l6.vercel.app"],   // frontend (vite) URL
   methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"], // allow json + jwt
   credentials: true,
